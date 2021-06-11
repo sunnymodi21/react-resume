@@ -1,25 +1,24 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Sunny Modi",
+    "occupation": "Software Engineer",
+    "description": "I have a Master of Computer Science and one of early engineer at my current company",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "I am a Software Engineer experience working with mid/large scale production-level applications. Good command of algorithms and various coding languages and strong problem-solving skills.I am a self-motivated person who is willing to go above and beyond on any project, and to learn valuable skills on my own time.  I am a hard worker and would always willing to go the extra mile to make things better.",
+    "email": "",
+    "phone": "",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.sunnymodi.com",
+    "resumedownload": "http://www.sunnymodi.com",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/sunnymodi21",
         "className": "fa fa-facebook"
       },
       {
@@ -29,49 +28,50 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/sunnymodi/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "http://github.com/sunnymodi21",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I have worked with different technologies at scale",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Illinois Institute of Technology",
+        "degree": "Masters in Computer Science",
+        "graduated": "May 2020",
+        "description": ""
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "K J Somaiya College Of Engineering",
+        "degree": " Bachelor of Engineering, Electronic",
+        "graduated": "March 2015",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "FoodReady",
+        "title": "Software Engineer",
+        "years": "May 2020 - Present",
+        "description": "Wrote clean, modular SaaS single-page applications in an agile environment. Developed highly interactive web app utilizing JavaScript, HTML5, CSS, React.js, Next.js integrating RESTful APIs and Firebase, ensuring high performance on Mobile and Desktop. Experience with relational databases and NoSQL databases (MySql, MongoDB, Firestore). Debug, and refactor existing implementations and software modules as required. Lead initiatives to discuss architecture and API design patterns for mid/long-term developments. Actively manage, improve, and monitor cloud infrastructure on Heroku, AWS, EC2, S3, ElasticSearch, including backups, patches, and scaling"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "TheBulletin.io",
+        "title": "Software Engineer Intern",
+        "years": "June 2019 - May 2020",
+        "description": "Analyzed and improved NodeJS application’s performance. Upgraded the platform from AngularJS to Angular 2 framework"
+      },
+      {
+        "company": "BookMyShow",
+        "title": "Full Stack Developer",
+        "years": "May 2017 - July 2018",
+        "description": "Contributed to architecture decisions that set the course for the future development of our app using client-side JS libraries/frameworks such as React.js. Worked alongside product managers to build and document RESTful APIs for a homepage in Node.js that handles 500k concurrent users."
       }
     ],
     "skills": [
@@ -80,8 +80,8 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "NodeJs",
+        "level": "80%"
       },
       {
         "name": "ReactJs",
@@ -89,65 +89,25 @@
       },
       {
         "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "title": "BlockDoc",
+        "category": "A decentralized document storage app using an elliptic curve digital signature algorithm (ECDSA) to encrypt, store and share data on decentralized storage",
+        "image": "",
+        "url": "https://blockdoc.me"
       }
     ]
   }
