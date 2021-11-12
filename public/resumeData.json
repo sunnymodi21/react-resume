@@ -2,14 +2,14 @@
   "main": {
     "name": "Sunny Modi",
     "occupation": "Software Engineer",
-    "description": "I have a Master of Computer Science and one of early engineer at my current company",
+    "description": "I have 5+ years of experience developing application in various technologies.",
     "image": "profilepic.jpg",
-    "bio": "I am a Software Engineer experience working with mid/large scale production-level applications. Good command of algorithms and various coding languages and strong problem-solving skills.I am a self-motivated person who is willing to go above and beyond on any project, and to learn valuable skills on my own time.  I am a hard worker and would always willing to go the extra mile to make things better.",
+    "bio": "I am a Software Engineer experience working with mid/large scale production-level applications. Good command of algorithms and various coding languages and strong problem-solving skills. I am a self-motivated person who is willing to go above and beyond on any project, and to learn valuable skills on my own time.  I am a hard worker and would always willing to go the extra mile to make things better.",
     "email": "",
     "phone": "",
     "address": {
       "street": "",
-      "city": "",
+      "city": "Chicago",
       "state": "",
       "zip": ""
     },
