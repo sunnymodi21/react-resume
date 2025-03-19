@@ -17,11 +17,6 @@
     "resumedownload": "http://www.sunnymodi.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sunnymodi21",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "twitter",
         "url": "http://twitter.com",
         "className": "fa fa-twitter"
@@ -104,10 +99,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "BlockDoc",
-        "category": "A decentralized document storage app using an elliptic curve digital signature algorithm (ECDSA) to encrypt, store and share data on decentralized storage",
+        "title": "LMS",
+        "category": "AI powered LMS",
         "image": "",
-        "url": "https://blockdoc.me"
+        "url": "https://lms.sunnymodi.com"
       }
     ]
   }
